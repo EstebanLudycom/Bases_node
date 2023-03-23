@@ -1,7 +1,7 @@
 require('colors');
 
 const fs = require('fs');
-const {crearArchivo} = require("./Multiplicar-promesas");
+const {crearArchivo} = require("./helpers/Multiplicar-promesas");
 const argv = require("./config/yargs");
 
 
